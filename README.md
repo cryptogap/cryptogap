@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [The Block List Project](https://github.com/blocklistproject/Lists)
 
-- 🌱 I’m currently learning **PHP, Python, Javascript**
+- 🌱 I’m currently learning **Solidity, ReactJS/NextJS, Web3/EthersJS**
 
 - 🤝 I’m looking for help with **all things open source**
 
