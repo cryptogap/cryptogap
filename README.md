@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Garrett AKA gap579137</h1>
+<h1 align="center">Hi 👋, CryptoGap</h1>
 <h3 align="center">Father, Husband, open source advocate and homelabber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gap579137" alt="gap579137" /> </p>
