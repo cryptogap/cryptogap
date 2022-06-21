@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cryptogap](https://github.com/cryptogap)
 
+<br/><br/><br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptogap&layout=compact&hide=html" alt="cryptogap" /></p>
 
 <p align="center">
